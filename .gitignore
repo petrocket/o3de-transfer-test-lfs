@@ -1,4 +1,5 @@
 _savebackup/
+.env
 .mayaSwatches/
 *.swatches
 [Bb]uild/
