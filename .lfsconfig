@@ -1,2 +1,6 @@
 [lfs]
-url = https://d3cbl6ey73k1b5.cloudfront.net/api/v1
+# new endpoint after transfer
+url = https://drgu7hczz7hxh.cloudfront.net/api/v1
+
+# old endpoint before transfer
+#url = https://d3cbl6ey73k1b5.cloudfront.net/api/v1
